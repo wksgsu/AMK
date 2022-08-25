@@ -17,8 +17,8 @@ global.APIKeys = {
 }
 
 //settings
-global.welcomeandgoodbye = 'true'
-global.callblock = 'false'
+global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ නම් false දාන්න.
+global.callblock = 'false' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
