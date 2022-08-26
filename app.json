@@ -82,25 +82,25 @@
     "description" : "TYPE GROUP LINK",
     "required" : true,
   "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
-    }
+},
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
   "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
-    }
+},
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
   "value" : "STICKER BY VIHANGA MD"
-    }
+},
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
   "value" : "*BY VIHANGA MD*"
-    }
+},
     
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
