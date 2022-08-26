@@ -1,5 +1,5 @@
 {
-    "name": "Zim Bot Inc",
+    "name": "VIHANA MD",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/zim-bot/zimbot-v2",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
@@ -111,7 +111,7 @@
   "YT_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
     "required" : true,
-    "value" :"*https://youtu.be/Z9rIR0Vopb8*"
+    "value" :"https://youtu.be/Z9rIR0Vopb8"
     }
     },
   
