@@ -1,7 +1,7 @@
 {
     "name": "VIHANA MD",
     "description": "whatsapp md bot build with nodejs",
-    "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
+    "repository": "https://github.com/zim-bot/zimbot-v2",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
@@ -23,7 +23,19 @@
     "required" : true,
   "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf*"
     },
+        
+        "WELCOME_MSG" :{
+    "description" : "TYPE WELCOME MSG",
+    "required" : true,
+  "value" : "*HELLO WELCOME TO OUR GROUP*"
+    },
   
+                "BYE_MSG" :{
+    "description" : "TYPE BYE MSG",
+    "required" : true,
+  "value" : "*BYE BRO*"
+    },
+        
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
