@@ -1,7 +1,7 @@
 {
     "name": "VIHANA MD",
     "description": "whatsapp md bot build with nodejs",
-    "repository": "https://github.com/zim-bot/zimbot-v2",
+    "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
@@ -11,13 +11,33 @@
     "required" : true,
   "value" : "true"
     },
-      
-"AUTO_BIO" :{
+  
+        "AUTO_BIO" :{
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
     "required" : true,
   "value" : "true"
     },
-      
+        
+"GROUP_ONLY_MSG" :{
+    "description" : "TYPE ONLY GROUP MSG",
+    "required" : true,
+  "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf*"
+    },
+  
+        "ALIVE_MSG" :{
+    "description" : "TYPE ALIVE MSG",
+    "required" : true,
+  "value" : "*┏━━━❬ᴠɪʜͥᴀɴͣɢͫᴀ ᴍᴅ🧚❭*
+
+   _I am alive now 😼_
+
+*┃Owner 🎩:* _ᴠɪʜͥᴀɴͣɢͫᴀ ᴍᴅ🧚_
+*┃Version 🧚:* _1.0.1_
+*┃Runtime ⏳:* _${runtime(process.uptime())}_
+*┃Group ✅ :* _https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf_
+┗━━━━━━━━━❊"
+    },
+        
 "CALL_BLOCK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
