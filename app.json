@@ -39,15 +39,7 @@
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
-  "value" : "*┏━━━❬ᴠɪʜͥᴀɴͣɢͫᴀ ᴍᴅ🧚❭*
-
-   _I am alive now 😼_
-
-*┃Owner 🎩:* _ᴠɪʜͥᴀɴͣɢͫᴀ ᴍᴅ🧚_
-*┃Version 🧚:* _1.0.1_
-*┃Runtime ⏳:* _${runtime(process.uptime())}_
-*┃Group ✅ :* _https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf_
-┗━━━━━━━━━❊"
+  "value" : "_I am alive now 😼_"
     },
         
 "CALL_BLOCK" :{
